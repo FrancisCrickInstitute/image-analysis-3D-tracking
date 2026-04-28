@@ -225,7 +225,7 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 		</tr>
 		<tr>
 			<td>13:45 - 15:15</td> 
-			<td>Session 7</td>
+			<td>Session 11</td>
 			<td><p>Q&A</p></td>
 		</tr>
 	</tbody>
