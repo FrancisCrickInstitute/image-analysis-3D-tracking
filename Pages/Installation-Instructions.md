@@ -1,8 +1,7 @@
 # Preparation For Introduction to Image Analysis Workshop
 
 Please read the following instructions carefully to prepare for the workshop. Completing these steps prior to the workshop is essential to ensure we stay on schedule. If you are having any trouble with the below instructions, please reach out for help:
-* For issues with FIJI, contact Sara (sara.salgueirotorres@crick.ac.uk)
-* For conda or ilastik issues, contact Stefania (stefania.marcotti@crick.ac.uk)
+* For any issues, contact Stefania (stefania.marcotti@crick.ac.uk)
 
 ## Download Demo Data
 
@@ -49,12 +48,13 @@ If this returns a version older than `23.10.0`, please update your `conda` by ru
 ```
 conda update -n base conda
 ```
-## Installing ilastik
 
-1. Install ilastik by following the installation instructions for your operating system at [this page](https://www.ilastik.org/download).
+## Create a GitHub account (if you don't already have one)
 
-![ilastik Webpage](./../assets/ilastik.png)
+1. Go to [https://github.com](https://github.com) and follow the “Sign up” link at the top-right of the window.
+2. Follow the instructions to create an account.
 
-2. ilastik should now be available in your Applications or Programs menu. Double-clicking on the its icon should open a page that looks like this:
+![GitHub SignUp](./../assets/github.png)
 
-![ilastik Landing](./../assets/ilastik_landing.png)
+3. Verify your email address with GitHub.
+4. Configure [multifactor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication). More information is available on the relevant [GitHub documentation](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
