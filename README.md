@@ -114,6 +114,6 @@ The workshop will take place in the Fiore Di Botta and Vallisneri building, Padu
 
 
 <p align="center">
-	<img width="10%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
+	<img width="10%" src="../Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="14%" src="../Resources/logo_bio.png" alt="Logo Bio Dept"> <img width="23%" src="../Resources/logo_uni.png" alt="University of Padua Logo">
 </p>
 
