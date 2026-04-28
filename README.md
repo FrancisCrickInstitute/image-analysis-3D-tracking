@@ -105,6 +105,129 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			</ul>
 			</td>
 		</tr>
+		<tr>
+			<th colspan=3>Thursday, May 28th 2026</th>
+		</tr>
+		<tr>
+			<td>09:30 - 11:00</td>
+			<td>Session 5</td>
+			<td><p>Extending the Analysis to Three-Dimensions in Fiji</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Counting and quantifying morphology of objects in 3D</li>
+					<li>Quantifying fluorescence intensities in 3D</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>11:00-11:15</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>11:15-12:45</td>
+			<td>Session 6</td>
+			<td><p>Visualising Image Data using napari</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<ul>
+						<li>Overview of the napari GUI</li>
+						<li>Visualising complex datasets</li>
+						<li>Extending napari capabilities with plugins</li>
+					</ul>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>12:45 - 13:45</td>
+			<td colspan=2>Lunch</td>
+		</tr>
+		<tr>
+			<td>13:45 - 15:15</td> 
+			<td>Session 7</td>
+			<td><p>Analysing Three-Dimensional Data using Python</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+			<ul>
+				<ul>
+					<li>Counting and quantifying morphology of objects in 3D</li>
+					<li>Quantifying fluorescence intensities in 3D</li>
+				</ul>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>15:15 - 15:30</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>15:30 - 17:00</td> 
+			<td>Session 8</td>
+			<td><p>3D Exercise</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+			<ul>
+				<ul>
+					<li>Practical application: quantifying 3D image data</li>
+				</ul>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan=3>Friday, May 29th 2026</th>
+		</tr>
+		<tr>
+			<td>09:30 - 11:00</td>
+			<td>Session 9</td>
+			<td><p>Tracking Objects in Fiji</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Overview of tracking algorithms</li>
+					<li>Using TrackMate</li>
+					<li>Analysing tracks and visualising results</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>11:00-11:15</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>11:15-12:45</td>
+			<td>Session 10</td>
+			<td><p>Tracking Exercise</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<ul>
+						<li>Practical application: tracking objects</li>
+					</ul>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>12:45 - 13:45</td>
+			<td colspan=2>Lunch</td>
+		</tr>
+		<tr>
+			<td>13:45 - 15:15</td> 
+			<td>Session 7</td>
+			<td><p>Q&A</p></td>
+		</tr>
 	</tbody>
 </table>
 
@@ -114,6 +237,6 @@ The workshop will take place in the Fiore Di Botta and Vallisneri building, Padu
 
 
 <p align="center">
-	<img width="20%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="20%" src="./Resources/logo_bio.jpeg" alt="Logo Bio Dept"> <img width="20%" src="./Resources/logo_uni.jpeg" alt="University of Padua Logo">
+	<img width="20%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="20%" src="./Resources/logo_uni.jpeg" alt="University of Padua Logo">
 </p>
 
