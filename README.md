@@ -7,7 +7,7 @@
 This is a multidisciplinary, advanced workshop designed for Master students in QuaC Biosciences, as well as Master students from other backgrounds, PhD students, and early-career researchers with an interest in image analysis and solid foundational knowledge of the field. The workshop will combine [FIJI](https://fiji.sc) and [Python](https://www.python.org/)-based workflows and will use datasets spanning cell biology to ecology. In particular, we will focus on two distinct types of advanced analysis: 3D cellular imaging and the tracking of particles or organisms in complex environments. Each day will include guided demonstrations and hands-on practical work.
 
 # Instructors
-* [Stefania Marcotti, Francis Crick Institute](https://www.linkedin.com/in/stefania-marcotti/)
+* [Stefania Marcotti, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/stefania-marcotti)
 
 # Preparation
 
@@ -33,12 +33,10 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Who are you and why are you here?</li>
 					<li>Creating Python environments</li>
 					<li>Why manual analysis is a bad idea</li>
-					<li>Embracing uncertainty</li>
-					<li>What is metadata and why do you need it</li>
-					<li>Version control and reproducibility</li>
+					<li>Version control and scientific reproducibility</li>
+					<li>Foundational concepts in image analysis</li>
 				</ul>
 			</td>
 		</tr>
