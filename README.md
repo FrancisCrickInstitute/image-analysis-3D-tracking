@@ -76,7 +76,8 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<ul>
 				<li>Introduction to Jupyter notebooks</li>
 				<li>Scripting foundational concepts</li>
-				<li>Quantifying morphology of objects in a 2D image</li>
+				<li>Counting and quantifying morphology of objects</li>
+				<li>Quantifying fluorescence intensities</li>
 			</ul>
 			</td>
 		</tr>
@@ -93,9 +94,7 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<td></td>
 			<td colspan=3>
 			<ul>
-				<ul>
-					<li>Practical application: analysing all the images in a folder</li>
-				</ul>
+				<li>Practical application: automating analysis for all the images in a folder</li>
 			</ul>
 			</td>
 		</tr>
