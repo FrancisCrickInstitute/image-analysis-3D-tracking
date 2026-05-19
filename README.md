@@ -128,11 +128,9 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<ul>
-						<li>Overview of the napari GUI</li>
-						<li>Visualising complex datasets</li>
-						<li>Extending napari capabilities with plugins</li>
-					</ul>
+					<li>Overview of the napari GUI</li>
+					<li>Visualising complex datasets</li>
+					<li>Extending napari capabilities with plugins</li>
 				</ul>
 			</td>
 		</tr>
@@ -149,10 +147,8 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<td></td>
 			<td colspan=3>
 			<ul>
-				<ul>
-					<li>Practical application: Counting and quantifying morphology of objects in 3D</li>
-					<li>Practical application: Quantifying fluorescence intensities in 3D</li>
-				</ul>
+				<li>Practical application: Counting and quantifying morphology of objects in 3D</li>
+				<li>Practical application: Quantifying fluorescence intensities in 3D</li>
 			</ul>
 			</td>
 		</tr>
@@ -169,10 +165,8 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<td></td>
 			<td colspan=3>
 			<ul>
-				<ul>
-					<li>3D seeded watershed</li>
-					<li>StarDist</li>
-				</ul>
+				<li>3D seeded watershed</li>
+				<li>StarDist</li>
 			</ul>
 			</td>
 		</tr>
