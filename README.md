@@ -150,8 +150,8 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<td colspan=3>
 			<ul>
 				<ul>
-					<li>Counting and quantifying morphology of objects in 3D</li>
-					<li>Quantifying fluorescence intensities in 3D</li>
+					<li>Practical application: Counting and quantifying morphology of objects in 3D</li>
+					<li>Practical application: Quantifying fluorescence intensities in 3D</li>
 				</ul>
 			</ul>
 			</td>
@@ -163,14 +163,15 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 		<tr>
 			<td>15:30 - 17:00</td> 
 			<td>Session 8</td>
-			<td><p>3D Exercise</p></td>
+			<td><p>Advanced Segmentation Tools</p></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td colspan=3>
 			<ul>
 				<ul>
-					<li>Practical application: quantifying 3D image data</li>
+					<li>3D seeded watershed</li>
+					<li>StarDist</li>
 				</ul>
 			</ul>
 			</td>
