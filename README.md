@@ -104,6 +104,24 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 		<tr>
 			<td>09:30 - 11:00</td>
 			<td>Session 5</td>
+			<td><p>Advanced Strategies to Segmentation</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Using seeded watershed to count touching objects</li>
+					<li>Segmentation with machine learning</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>11:00-11:15</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>11:15-12:45</td>
+			<td>Session 6</td>
 			<td><p>Extending the Analysis to Three-Dimensions in Fiji</p></td>
 		</tr>
 		<tr>
@@ -116,39 +134,21 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			</td>
 		</tr>
 		<tr>
-			<td>11:00-11:15</td>
-			<td colspan=2>Coffee Break</td>
-		</tr>
-		<tr>
-			<td>11:15-12:45</td>
-			<td>Session 6</td>
-			<td><p>Visualising Image Data using napari</p></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td colspan=3>
-				<ul>
-					<li>Overview of the napari GUI</li>
-					<li>Visualising complex datasets</li>
-					<li>Extending napari capabilities with plugins</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
 			<td>12:45 - 13:45</td>
 			<td colspan=2>Lunch</td>
 		</tr>
 		<tr>
 			<td>13:45 - 15:15</td> 
 			<td>Session 7</td>
-			<td><p>Analysing Three-Dimensional Data using Python</p></td>
+			<td><p>Visualising Image Data using napari</p></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td colspan=3>
 			<ul>
-				<li>Practical application: Counting and quantifying morphology of objects in 3D</li>
-				<li>Practical application: Quantifying fluorescence intensities in 3D</li>
+				<li>Overview of the napari GUI</li>
+				<li>Visualising complex datasets</li>
+				<li>Extending napari capabilities with plugins</li>
 			</ul>
 			</td>
 		</tr>
@@ -159,14 +159,13 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 		<tr>
 			<td>15:30 - 17:00</td> 
 			<td>Session 8</td>
-			<td><p>Advanced Segmentation Tools</p></td>
+			<td><p>Analysing Three-Dimensional Data using Python</p></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td colspan=3>
 			<ul>
-				<li>3D seeded watershed</li>
-				<li>StarDist</li>
+				<li>Practical application: Counting and quantifying morphology of objects in 3D</li>
 			</ul>
 			</td>
 		</tr>
