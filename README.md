@@ -149,6 +149,7 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 				<li>Overview of the napari GUI</li>
 				<li>Visualising complex datasets</li>
 				<li>Extending napari capabilities with plugins</li>
+				<li>Integrating napari in Jupyter notebooks</li>
 			</ul>
 			</td>
 		</tr>
