@@ -17,7 +17,7 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 4. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
 5. **PLEASE CONTACT US BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
-# Program (draft)
+# Program
 
 <table style="width:100%">
 	<tbody>
@@ -176,15 +176,15 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 		<tr>
 			<td>09:30 - 11:00</td>
 			<td>Session 9</td>
-			<td><p>Tracking Objects in Fiji</p></td>
+			<td><p>Tracking Objects</p></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td colspan=3>
 				<ul>
 					<li>Overview of tracking algorithms</li>
-					<li>Using TrackMate</li>
-					<li>Analysing tracks and visualising results</li>
+					<li>Using TrackMate in Fiji</li>
+					<li>Practical application: Track objects using TrackMate</li>
 				</ul>
 			</td>
 		</tr>
@@ -195,14 +195,14 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 		<tr>
 			<td>11:15-12:45</td>
 			<td>Session 10</td>
-			<td><p>Tracking Exercise</p></td>
+			<td><p>Analysing Tracking Data</p></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td colspan=3>
 				<ul>
 					<ul>
-						<li>Practical application: tracking objects</li>
+						<li><li>Analysing tracks and visualising results</li></li>
 					</ul>
 				</ul>
 			</td>
