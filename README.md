@@ -25,7 +25,7 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<th colspan=3>Wednesday, May 27th 2026</th>
 		</tr>
 		<tr>
-			<td>09:30 - 11:00</td>
+			<td>09:15 - 10:45</td>
 			<td>Session 1</td>
 			<td><p>Introduction & Installations</p></td>
 		</tr>
@@ -41,11 +41,11 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			</td>
 		</tr>
 		<tr>
-			<td>11:00-11:15</td>
+			<td>10:45-11:00</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>11:15-12:45</td>
+			<td>11:00-12:30</td>
 			<td>Session 2</td>
 			<td><p>Image Pre-Processing, Segmentation & Analysis using Fiji</p></td>
 		</tr>
@@ -62,11 +62,11 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			</td>
 		</tr>
 		<tr>
-			<td>12:45 - 13:45</td>
+			<td>12:30 - 13:30</td>
 			<td colspan=2>Lunch</td>
 		</tr>
 		<tr>
-			<td>13:45 - 15:15</td> 
+			<td>13:30 - 15:00</td> 
 			<td>Session 3</td>
 			<td><p>Image Pre-Processing, Segmentation & Analysis using Python</p></td>
 		</tr>
@@ -82,11 +82,11 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			</td>
 		</tr>
 		<tr>
-			<td>15:15 - 15:30</td>
+			<td>15:00 - 15:15</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>15:30 - 17:00</td> 
+			<td>15:15 - 17:00</td> 
 			<td>Session 4</td>
 			<td><p>Automating Image Analysis Workflows using Python</p></td>
 		</tr>
@@ -102,7 +102,7 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<th colspan=3>Thursday, May 28th 2026</th>
 		</tr>
 		<tr>
-			<td>09:30 - 11:00</td>
+			<td>09:15 - 10:45</td>
 			<td>Session 5</td>
 			<td><p>Advanced Strategies to Segmentation</p></td>
 		</tr>
@@ -116,11 +116,11 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			</td>
 		</tr>
 		<tr>
-			<td>11:00-11:15</td>
+			<td>10:45-11:00</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>11:15-12:45</td>
+			<td>11:00-12:30</td>
 			<td>Session 6</td>
 			<td><p>Extending the Analysis to Three-Dimensions in Fiji</p></td>
 		</tr>
@@ -134,11 +134,11 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			</td>
 		</tr>
 		<tr>
-			<td>12:45 - 13:45</td>
+			<td>12:30 - 13:30</td>
 			<td colspan=2>Lunch</td>
 		</tr>
 		<tr>
-			<td>13:45 - 15:15</td> 
+			<td>13:30 - 15:00</td> 
 			<td>Session 7</td>
 			<td><p>Visualising Image Data using napari</p></td>
 		</tr>
@@ -154,11 +154,11 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			</td>
 		</tr>
 		<tr>
-			<td>15:15 - 15:30</td>
+			<td>15:00 - 15:15</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>15:30 - 17:00</td> 
+			<td>15:15 - 17:00</td> 
 			<td>Session 8</td>
 			<td><p>Analysing Three-Dimensional Data using Python</p></td>
 		</tr>
@@ -174,7 +174,7 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<th colspan=3>Friday, May 29th 2026</th>
 		</tr>
 		<tr>
-			<td>09:30 - 11:00</td>
+			<td>09:15 - 10:45</td>
 			<td>Session 9</td>
 			<td><p>Tracking Objects</p></td>
 		</tr>
@@ -189,11 +189,11 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			</td>
 		</tr>
 		<tr>
-			<td>11:00-11:15</td>
+			<td>10:45-11:00</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>11:15-12:45</td>
+			<td>11:00-12:30</td>
 			<td>Session 10</td>
 			<td><p>Analysing Tracking Data</p></td>
 		</tr>
@@ -206,11 +206,11 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			</td>
 		</tr>
 		<tr>
-			<td>12:45 - 13:45</td>
+			<td>12:30 - 13:30</td>
 			<td colspan=2>Lunch</td>
 		</tr>
 		<tr>
-			<td>13:45 - 15:15</td> 
+			<td>13:30 - 15:00</td> 
 			<td>Session 11</td>
 			<td><p>Q&A</p></td>
 		</tr>
