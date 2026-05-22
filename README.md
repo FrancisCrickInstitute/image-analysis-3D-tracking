@@ -202,7 +202,7 @@ This is a multidisciplinary, advanced workshop designed for Master students in Q
 			<td colspan=3>
 				<ul>
 					<ul>
-						<li><li>Analysing tracks and visualising results</li></li>
+						<li>Analysing tracks and visualising results</li>
 					</ul>
 				</ul>
 			</td>
