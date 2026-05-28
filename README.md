@@ -228,6 +228,7 @@ All the slides for the course are available [at this link](https://drive.google.
 # Additional resources
 
 * Tutorial to record your first Fiji macro [at this link](https://imagej.net/tutorials/batch-processing-with-ij-macro)
+* Paper on experimental design [at this link](https://doi.org/10.1242/jcs.264367)
 
 
 <p align="center">
